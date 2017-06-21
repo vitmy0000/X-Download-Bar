@@ -1,14 +1,14 @@
 {
-  "name": "My Keymap",
+  "name": "X Download Bar",
   "version": "1.0",
-  "description": "Keymap for quick browser operation",
+  "description": "Press key x to closed Chrome download bar",
   "permissions": [
       "<all_urls>",
       "downloads",
       "downloads.shelf"
   ],
   "browser_action": {
-      "default_title": "My Keymap",
+      "default_title": "X",
       "default_icon": "icon.png",
       "default_popup": "popup.html"
   },
